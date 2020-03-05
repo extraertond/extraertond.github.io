@@ -1,0 +1,14 @@
+Prueba técnica Néstor Fernández González
+
+Consideraciones:
+
+Puesto que los inputs no contienen una estrúctura común de la que se pueda deducir automatizadamente si son artículos importados o de primera necesidad
+he decidido crear una estructura producto y añadir automaticamente en el main del programa sus datos relevantes.
+
+Respecto al redondeo, no sé si es un error en el ejemplo del ejercicio pero lo he revisado varias veces y salen resultados distintos aplicando (según mi punto de vista)
+el mismo método de redondeo. La diferencia de resultados es en algunos inputs y de 2 céntimos pero quería comentarlo.
+
+Ejecución:
+
+Se puede importar el programa en eclipse y ejecutar directamente desde ahí. Pero para mayor comodidad lo he creado como un ejecutable (sombradoble.jar) y lo 
+único que hay que hacer es abir la consola en al ubicación del jar y ejecutar $java -jar sombradoble.jar
