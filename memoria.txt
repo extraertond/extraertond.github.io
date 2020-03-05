@@ -12,3 +12,10 @@ Ejecución:
 
 Se puede importar el programa en eclipse y ejecutar directamente desde ahí. Pero para mayor comodidad lo he creado como un ejecutable (sombradoble.jar) y lo 
 único que hay que hacer es abir la consola en al ubicación del jar y ejecutar $java -jar sombradoble.jar
+
+Despliegue en GitHub:
+
+El ejemplo que pone de despliegue no encaja muy bien con mi solución puesto que no es una aplicación web. Me he limitado a subirlo a mi cuenta de GitHub de manera pública
+donde se encuentra el código y esta memoria.
+
+https://github.com/extraertond/extraertond.github.io
